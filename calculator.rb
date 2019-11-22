@@ -1,2 +1,2 @@
 first_number = 2
-second number = 2.5
+second_number = 2.5
